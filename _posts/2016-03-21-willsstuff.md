@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Hank Quinlan, Horrible Cop, Launches Site"
+date: 2016-03-21
+---
+
 My Markdown example
 ===================
 
