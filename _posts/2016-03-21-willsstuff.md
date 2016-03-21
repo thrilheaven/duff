@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Thril Heaven is the boss"
 date: 2016-03-21
 ---
 
